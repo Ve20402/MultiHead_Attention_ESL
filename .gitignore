@@ -1,0 +1,7 @@
+.venv
+*.o
+*.so
+simulation_tlm
+izlaz/
+__pycache__/
+.test_sysc*
